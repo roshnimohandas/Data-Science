@@ -6,4 +6,4 @@ Fit
 Accuracy Parameters
 Assumptions
 Coefficients
-
+Types of Regression
