@@ -7,3 +7,4 @@ Accuracy Parameters
 Assumptions
 Coefficients
 
+Hands on 
