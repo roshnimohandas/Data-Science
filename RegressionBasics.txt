@@ -7,6 +7,9 @@ Accuracy Parameters
 Assumptions
 Coefficients
 
+Types of Regression
+
 Hands on 
 
 Done
+
