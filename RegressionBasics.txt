@@ -1,5 +1,9 @@
 
 Regression Basics 
 
-
+Linear equation 
+Fit
+Accuracy Parameters
+Assumptions
+Coefficients
 
